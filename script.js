@@ -1,12 +1,12 @@
 var data = [
   //{ id: '', color: '#3f297e', text: 'ALL IN', ikon: 'invert_colors' },
   { id: '', color: '#3f297e', text: 'SURPRESA'  },
-  { id: '', color: '#1d61ac', text: '', image: '<img src="../img/EuVou.png" style="width: 55px;">' },
-  { id: '', color: '#209b6c', text: '', image: '<img src="../img/BibliaDesenhada.png" style="width: 39px;">' },
-  { id: '', color: '#e6471d', text: '', image: '<img src="../img/bibliaEuVou.png" style="width: 50px;">' },
-  { id: '', color: '#60b236', text: '', image: '<img src="../img/CamisaJovem.png" style="width: 42px;">' },
-  { id: '', color: '#dc0936', text: '', image: '<img src="../img/salvacaoServico.jpg" style="width: 38px;">' },
-  { id: '', color: '#be107f', text: '', image: '<img src="../img/BibliaLeao.png" style="width: 45px;">' },
+  { id: '', color: '#1d61ac', text: '', image: '<img src="./img/EuVou.png" style="width: 55px;">' },
+  { id: '', color: '#209b6c', text: '', image: '<img src="./img/BibliaDesenhada.png" style="width: 39px;">' },
+  { id: '', color: '#e6471d', text: '', image: '<img src="./img/bibliaEuVou.png" style="width: 50px;">' },
+  { id: '', color: '#60b236', text: '', image: '<img src="./img/CamisaJovem.png" style="width: 42px;">' },
+  { id: '', color: '#dc0936', text: '', image: '<img src="./img/salvacaoServico.jpg" style="width: 38px;">' },
+  { id: '', color: '#be107f', text: '', image: '<img src="./img/BibliaLeao.png" style="width: 45px;">' },
 ];
 
 var RouletteWheel = function(el, items){
